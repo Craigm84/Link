@@ -1,8 +1,0 @@
-#Ignore this folder
-/Logs/
-
-#ignore all files with.
-.*
-
-#Except gitignore
-!.gitignore
